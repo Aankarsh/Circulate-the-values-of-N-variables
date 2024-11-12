@@ -32,7 +32,8 @@ n=int(input())
 ```
 
 ## Output:
-![OUTPUT](./images/circulate1.png)
+![circulate1](https://github.com/user-attachments/assets/2c8e78a2-249f-42d3-8c85-2ecc1893d40e)
+
 
 
 ## Result:
