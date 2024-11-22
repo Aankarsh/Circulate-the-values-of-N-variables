@@ -32,7 +32,8 @@ n=int(input())
 ```
 
 ## Output:
-![circulate1](https://github.com/user-attachments/assets/2c8e78a2-249f-42d3-8c85-2ecc1893d40e)
+![Screenshot 2024-11-22 191755](https://github.com/user-attachments/assets/2302a72b-6698-4a24-a2bf-0b1f7fbe8ea0)
+
 
 
 
